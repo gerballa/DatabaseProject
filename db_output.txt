@@ -1,0 +1,12 @@
+Created resource:car in the database
+Added row to resource:car
+Added row to resource:car
+Created resource:person in the database
+Added row to resource:person
+Added row to resource:person
+Added row to resource:person
+surname:Balla name:Rei id:3  | surname:Balla name:Geri id:4  | 
+Resource:car 2 rows
+model:f150 id:2 brand:ford  | model:992 gt3 id:3 brand:porsche  | 
+Resource:person 3 rows
+surname:Smith name:John id:2  | surname:Balla name:Rei id:3  | surname:Balla name:Geri id:4  | 

@@ -1,0 +1,10 @@
+CREATE RESOURCE car (id_PK,brand,model);
+ADD TO car (id,2) (brand,ford) (model,f150);
+ADD TO car (id,3) (brand,porsche) (model,992 gt3);
+CREATE RESOURCE person (id_PK,name,surname);
+ADD TO person (id,2) (name,John) (surname,Smith);
+ADD TO person (id,3) (name,Rei) (surname,Balla);
+ADD TO person (id,4) (name,Geri) (surname,Balla);
+SEARCH person with surname=Balla
+DB_STATE
+
